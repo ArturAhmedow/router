@@ -1,1 +1,1 @@
-www.google.com
+DOMAIN=www.google.com
